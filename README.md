@@ -1,5 +1,4 @@
-## 🎓 About Me  
-- 🇮🇹 Italian student at **University of Padua**  
+## 🎓 About Me   
 - Master’s in **Computer Engineering – Artificial Intelligence & Robotics**  
 - Bachelor’s in **Computer Engineering**  
 - Passionate about **AI solutions** and their real-world applications  
